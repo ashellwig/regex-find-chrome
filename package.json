@@ -1,0 +1,26 @@
+{
+  "name": "regexfind",
+  "version": "0.1.0",
+  "description": "Find-in-page with regular expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashellwig/regex-find-chrome.git"
+  },
+  "keywords": [
+    "regex",
+    "find-in-page",
+    "find",
+    "chrome-extension",
+    "chrome"
+  ],
+  "author": "Ashton S. Hellwig <ahellwig.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashellwig/regex-find-chrome/issues"
+  },
+  "homepage": "https://github.com/ashellwig/regex-find-chrome#readme"
+}
